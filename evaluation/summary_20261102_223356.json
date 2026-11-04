@@ -1,0 +1,11 @@
+{
+    "run_id": "20261102_223356",
+    "timestamp": "2026-11-02T22:34:07.385185",
+    "total_questions": 100,
+    "hit_at_5": 0.93,
+    "mrr_at_5": 0.8892,
+    "correct_page_rate": 0.73,
+    "average_latency_sec": 0.1073,
+    "p95_latency_sec": 0.1374,
+    "max_latency_sec": 0.1797
+}
