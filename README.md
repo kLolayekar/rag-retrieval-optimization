@@ -2,7 +2,6 @@
 A hands-on RAG engineering project exploring retrieval accuracy, latency, and performance optimization across 20-30k pages of complex pdf's and regulatory documents. The project documents the journey from baseline retrieval to performance profiling, candidate recall evaluation, and accuracy–latency trade-offs, with implementation and benchmarking.
 
 ---
-
 ## 🏗️ End-to-End System Architecture Diagram
 
 ```mermaid
@@ -42,14 +41,14 @@ flowchart TD
         TOP_K --> PROMPT_BUILD["Regulatory Prompt Assembler<br>+ Source & Page Attribution"]
         QUERY --> PROMPT_BUILD
         PROMPT_BUILD --> LLM["LLM (llama3.1:8b)"]
-        LLM --> ANSWER["Grounded Answer with Exact Citations<br>[Source: Circular.pdf, Page: N]"]
+        LLM --> ANSWER["Grounded Answer with Exact Citations<br>"]
     end
 
     subgraph PROFILING["4. Latency & Quality Telemetry"]
         RETRIEVAL -.-> PROFILER["RetrievalProfiler<br>(P50, P95, per-stage latency)"]
         TOP_K -.-> EVAL["Evaluation Engine<br>(Hit@5, MRR@5, Page Accuracy, Recall@20)"]
     end
-```
+---
 
 ## 🚀 Architecture Evolution Summary
 
@@ -60,7 +59,7 @@ flowchart TD
 | **V3** | [`3. rag_section_aware_BM25+Hybrid_latency copy.py`](3.%20rag_section_aware_BM25+Hybrid_latency%20copy.py) | • In-memory index caching (avoids re-reading index files)<br>• Fine-grained `RetrievalProfiler` measuring per-stage micro-latencies (Embedding, Dense, BM25, RRF) | Hybrid Dense + BM25 with Latency Profiling |
 | **V4** | [`4. rag_improvedBM25+Reranking.py`](4.%20rag_improvedBM25+Reranking.py) | • **Two-Stage Retrieval Architecture**<br>• `np.argpartition` fast BM25 candidate selection<br>• Cross-Encoder Reranking (`ms-marco-MiniLM-L-6-v2`)<br>• Candidate Recall@20 vs Final Top-5 evaluation<br>• Strict Banking Compliance System Prompt | Hybrid RRF Candidate Generation (Top-10) + Cross-Encoder Reranking (Top-5) |
 
----
+
 
 
 ---
