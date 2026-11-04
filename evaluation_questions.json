@@ -1,0 +1,1738 @@
+[
+  {
+    "question_id": "Q001",
+    "question": "From when do the RBI (Credit Information Companies - Miscellaneous) Supervisory Directions, 2026 come into effect?",
+    "question_category": "direct_factual",
+    "expected_answer": "They come into effect immediately on the date of issuance (circular dated July 31, 2026).",
+    "expected_source": "Credit Information Companies - Miscellaneous) Supervisory Directions.pdf",
+    "expected_page": [
+      1,
+      2
+    ],
+    "expected_section": "Chapter I, Para 2 (Short Title and Commencement)",
+    "expected_keywords": [
+      "immediate",
+      "Supervisory Directions"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q002",
+    "question": "After how many days from issuance does the SEBI Credit Risk-o-Meter circular come into force?",
+    "question_category": "direct_factual",
+    "expected_answer": "It comes into force 45 days after issuance of the circular.",
+    "expected_source": "Credit Risk-o-Meter as an additional disclosure.pdf",
+    "expected_page": [
+      2
+    ],
+    "expected_section": "Para 5",
+    "expected_keywords": [
+      "45 days",
+      "come into force"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q003",
+    "question": "Which colour and hex code represent the AAA/A1+ risk level in the Credit Risk-o-Meter?",
+    "question_category": "direct_factual",
+    "expected_answer": "Irish Green, hex code #08A04B.",
+    "expected_source": "Credit Risk-o-Meter as an additional disclosure.pdf",
+    "expected_page": [
+      4,
+      5
+    ],
+    "expected_section": "Annexure A - risk level colour table",
+    "expected_keywords": [
+      "Irish Green",
+      "08A04B"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q004",
+    "question": "If an instrument is rated by more than one credit rating agency, which rating does the Credit Risk-o-Meter reflect?",
+    "question_category": "direct_factual",
+    "expected_answer": "The lowest of the ratings assigned by the rating agencies.",
+    "expected_source": "Credit Risk-o-Meter as an additional disclosure.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Para 2.7",
+    "expected_keywords": [
+      "lowest",
+      "credit risk-o-meter"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q005",
+    "question": "Which agency is the nodal agency for the Credit Enhancement Guarantee Scheme for Scheduled Castes (CEGSSC)?",
+    "question_category": "direct_factual",
+    "expected_answer": "IFCI Ltd. is the nodal agency for the scheme (CEGSSC launched on May 6, 2015).",
+    "expected_source": "Credit_facilities.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Para 5 - CEGSSC",
+    "expected_keywords": [
+      "IFCI",
+      "nodal agency"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q006",
+    "question": "Under the DRI scheme, what is the maximum loan amount and the interest rate, as covered for SC/ST beneficiaries?",
+    "question_category": "direct_factual",
+    "expected_answer": "Loans up to Rs. 15,000 at 4% per annum under the Differential Rate of Interest (DRI) scheme.",
+    "expected_source": "Credit_facilities.pdf",
+    "expected_page": [
+      4,
+      5
+    ],
+    "expected_section": "Para 4.2",
+    "expected_keywords": [
+      "15,000",
+      "4 per cent",
+      "DRI"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q007",
+    "question": "What is the maximum repayment period for housing loans granted by UCBs?",
+    "question_category": "direct_factual",
+    "expected_answer": "A maximum of 20 years, including the moratorium or repayment holiday.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Para 4.6(i)",
+    "expected_keywords": [
+      "20 years",
+      "moratorium"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q008",
+    "question": "What is the housing loan ceiling per dwelling unit for a Tier 2 UCB?",
+    "question_category": "direct_factual",
+    "expected_answer": "Rs. 1.40 crore per dwelling unit (subject to extant single borrower exposure limits).",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 4.1(ii)",
+    "expected_keywords": [
+      "Tier 2",
+      "1.40 crore",
+      "dwelling unit"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q009",
+    "question": "When is a term loan classified as a non-performing asset under the UCB master circular on income recognition?",
+    "question_category": "direct_factual",
+    "expected_answer": "When interest and/or instalment of principal remains overdue for a period of more than 90 days.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      3
+    ],
+    "expected_section": "Para 2.1.1(i)",
+    "expected_keywords": [
+      "90 days",
+      "Term Loan"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q010",
+    "question": "What percentage of provision is required for loss assets under the UCB master circular on income recognition and provisioning?",
+    "question_category": "direct_factual",
+    "expected_answer": "Loss assets must be provided for at 100% of the outstanding.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      18
+    ],
+    "expected_section": "Para 5.1.2",
+    "expected_keywords": [
+      "loss assets",
+      "100"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q011",
+    "question": "What is the maximum one-time membership fee an ARC pays to each Credit Information Company?",
+    "question_category": "direct_factual",
+    "expected_answer": "Not exceeding Rs. 10,000 per CIC as a one-time membership fee (annual fee up to Rs. 5,000).",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Credit Information Reporting.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Paras 6-8 (Membership of CICs)",
+    "expected_keywords": [
+      "10,000",
+      "membership"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q012",
+    "question": "What ownership threshold identifies a beneficial owner where the customer of an ARC is a company?",
+    "question_category": "direct_factual",
+    "expected_answer": "A natural person with ownership of/entitlement to more than 10 per cent of the shares, capital or profits of the company.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      3,
+      4
+    ],
+    "expected_section": "Para 4(1)(iv) - Beneficial Owner",
+    "expected_keywords": [
+      "beneficial owner",
+      "10 percent"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q013",
+    "question": "For how long must an ARC maintain records of transactions with its customers?",
+    "question_category": "direct_factual",
+    "expected_answer": "At least five years from the date of transaction.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      39
+    ],
+    "expected_section": "Para 45(1)",
+    "expected_keywords": [
+      "five years",
+      "transactions"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q014",
+    "question": "What is the minimum net owned fund (NOF) an Asset Reconstruction Company must have?",
+    "question_category": "direct_factual",
+    "expected_answer": "Rs. 300 crore.",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      9
+    ],
+    "expected_section": "Para 14",
+    "expected_keywords": [
+      "300 crore",
+      "net owned fund"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q015",
+    "question": "After how many days overdue is a financial asset treated as NPA by an ARC?",
+    "question_category": "direct_factual",
+    "expected_answer": "When it is overdue for 180 days or more (the Board may classify earlier).",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 4(9) - NPA definition",
+    "expected_keywords": [
+      "180 days"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q016",
+    "question": "What is the agency commission rate for physical-mode receipts paid by RBI to agency banks from April 01, 2025?",
+    "question_category": "direct_factual",
+    "expected_answer": "Rs. 40 per transaction.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      9
+    ],
+    "expected_section": "Para 22, Table 1",
+    "expected_keywords": [
+      "Physical mode",
+      "40"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q017",
+    "question": "At what rate is penal interest charged on wrong agency commission claims settled by agency banks?",
+    "question_category": "direct_factual",
+    "expected_answer": "Bank Rate (as notified by RBI) plus 2%.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      12
+    ],
+    "expected_section": "Para 38 (Penal interest for wrong claims)",
+    "expected_keywords": [
+      "Bank Rate",
+      "2%"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q018",
+    "question": "Within what time must a CIC report a cyber incident after detection?",
+    "question_category": "direct_factual",
+    "expected_answer": "Within six hours of detection (on the DAKSH platform), with proactive notification to CERT-In.",
+    "expected_source": "Credit Information Companies ΓÇô Cybersecurity, Technolog.pdf",
+    "expected_page": [
+      39
+    ],
+    "expected_section": "Para 177",
+    "expected_keywords": [
+      "six hours",
+      "DAKSH"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q019",
+    "question": "Which number is the sole identification number for all transactions in the securities market for BO accounts under the depositories master circular?",
+    "question_category": "direct_factual",
+    "expected_answer": "The Permanent Account Number (PAN) is the sole identification number (with effect from July 02, 2007).",
+    "expected_source": "Master Circular for Depositories.pdf",
+    "expected_page": [
+      10
+    ],
+    "expected_section": "Para 1.1.1.1",
+    "expected_keywords": [
+      "PAN",
+      "sole identification number"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q020",
+    "question": "Name the four credit information companies listed in the Know Your Lender handbook.",
+    "question_category": "direct_factual",
+    "expected_answer": "TransUnion CIBIL, Experian, Equifax and CRIF High Mark.",
+    "expected_source": "Know your Lender.pdf",
+    "expected_page": [
+      24
+    ],
+    "expected_section": "Section 4.1 (Credit Information Companies)",
+    "expected_keywords": [
+      "CIBIL",
+      "Experian",
+      "Equifax",
+      "CRIF"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q021",
+    "question": "What is the procedure to be followed when a loan application from an SC/ST applicant is to be rejected?",
+    "question_category": "policy_procedure",
+    "expected_answer": "Rejection must be decided at the next higher level, with the reasons recorded.",
+    "expected_source": "Credit_facilities.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 2.7",
+    "expected_keywords": [
+      "next higher",
+      "reject"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q022",
+    "question": "What monitoring arrangements must a bank set up at Head Office for credit flow to SC/ST beneficiaries?",
+    "question_category": "policy_procedure",
+    "expected_answer": "A special cell at Head Office to monitor credit flow, collect data from branches, consolidate it and submit returns to RBI and Government; Head Office periodically reviews credit, and any major year-on-year gap is reported to the Board or its committee.",
+    "expected_source": "Credit_facilities.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Paras 6.1-6.2",
+    "expected_keywords": [
+      "special cell",
+      "Head Office",
+      "Board"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q023",
+    "question": "How is the moratorium period decided for a UCB housing loan?",
+    "question_category": "policy_procedure",
+    "expected_answer": "The moratorium is the earliest of: the beneficiary's option, completion of construction, or 18 months from the date of disbursement of the first instalment; the total period including moratorium cannot exceed 20 years.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      5,
+      6
+    ],
+    "expected_section": "Para 4.6(ii)",
+    "expected_keywords": [
+      "moratorium",
+      "18 months",
+      "first instalment"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q024",
+    "question": "Can a UCB levy penal interest on a housing loan borrower for non-compliance with material loan terms?",
+    "question_category": "policy_procedure",
+    "expected_answer": "No. Such penalty must be treated as 'penal charges' and not levied as 'penal interest' added to the interest rate, per the circular on Fair Lending Practice - Penal Charges.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Para 4.3.1",
+    "expected_keywords": [
+      "penal charges",
+      "penal interest"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q025",
+    "question": "When is a credit card account classified as NPA?",
+    "question_category": "policy_procedure",
+    "expected_answer": "If the minimum amount due in the statement is not paid fully within 90 days from the payment due date mentioned in the statement.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 2.1.2(B)(ii)",
+    "expected_keywords": [
+      "credit card",
+      "minimum amount due",
+      "90 days"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q026",
+    "question": "Over what period must provisioning be made for fraud accounts, and what happens if fraud reporting to RBI is delayed?",
+    "question_category": "policy_procedure",
+    "expected_answer": "The entire amount due must be provided for over a period not exceeding four quarters starting with the quarter of fraud detection; if reporting to RBI is delayed beyond the prescribed period, full provisioning must be made at once and RBI may take supervisory action.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      20
+    ],
+    "expected_section": "Paras 5.3.1-5.3.2",
+    "expected_keywords": [
+      "four quarters",
+      "fraud"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q027",
+    "question": "In what circumstance may an account be shown with 'settled' status in credit information reported by credit institutions to CICs?",
+    "question_category": "policy_procedure",
+    "expected_answer": "'Settled' status is used only for cases where a waiver has been granted; where the borrower contests charges it is to be shown as 'disputed'.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Credit Information Reporting.pdf",
+    "expected_page": [
+      8
+    ],
+    "expected_section": "Para 12(4)",
+    "expected_keywords": [
+      "settled",
+      "waiver",
+      "disputed"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q028",
+    "question": "What customer due diligence is required by an ARC for occasional transactions?",
+    "question_category": "policy_procedure",
+    "expected_answer": "CDD is required for occasional transactions of Rs. 50,000 and above, whether in a single transaction or several connected transactions.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      9
+    ],
+    "expected_section": "Para 4(2)(iii)",
+    "expected_keywords": [
+      "50,000",
+      "occasional"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q029",
+    "question": "How often must an ARC carry out periodic updation of KYC for customers of different risk categories?",
+    "question_category": "policy_procedure",
+    "expected_answer": "At least once every 2 years for high-risk, every 8 years for medium-risk and every 10 years for low-risk customers.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      32,
+      33
+    ],
+    "expected_section": "Para 41(1)",
+    "expected_keywords": [
+      "periodic updation",
+      "high-risk",
+      "medium risk",
+      "low-risk"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q030",
+    "question": "What process must an ARC follow to verify a change of address declared by an individual customer during KYC updation?",
+    "question_category": "policy_procedure",
+    "expected_answer": "Obtain a self-declaration of the new address and verify it through positive confirmation within two months, e.g. address verification letter, contact point verification or deliverables.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      33
+    ],
+    "expected_section": "Para 41(3)(ii)",
+    "expected_keywords": [
+      "change in address",
+      "positive confirmation",
+      "two months"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q031",
+    "question": "What conditions apply when an ARC settles dues with a borrower whose aggregate outstanding principal exceeds Rs. 1 crore?",
+    "question_category": "policy_procedure",
+    "expected_answer": "Settlement follows a Board-approved policy; the proposal must first be examined by the Independent Advisory Committee, and the Board (with at least two independent directors) or a qualifying Committee deliberates on the IAC's recommendations and records its rationale.",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      21,
+      22
+    ],
+    "expected_section": "Para 64",
+    "expected_keywords": [
+      "Independent Advisory Committee",
+      "two independent directors",
+      "1 crore"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q032",
+    "question": "What is the deadline for agency banks to upload luggage files to RBI's e-Kuber/QPX and can it be extended?",
+    "question_category": "policy_procedure",
+    "expected_answer": "Luggage files must be uploaded at or before 1800 hours on all days except Global Holidays (no extension, per the circular).",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      8
+    ],
+    "expected_section": "Para 18",
+    "expected_keywords": [
+      "luggage files",
+      "1800 hours",
+      "Global Holidays"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q033",
+    "question": "When can an agency bank claim commission at the pension-payment rate?",
+    "question_category": "policy_procedure",
+    "expected_answer": "Only when the entire work of pension disbursement including pension calculation is attended to by the agency bank; otherwise, it is categorised as 'other than pension payment'.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      11
+    ],
+    "expected_section": "Para 33",
+    "expected_keywords": [
+      "pension calculation",
+      "other than pension"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q034",
+    "question": "To whom must the CISO of a CIC report, and what restriction applies to the CISO's reporting line?",
+    "question_category": "policy_procedure",
+    "expected_answer": "The CISO reports directly to the Executive Director or equivalent overseeing risk management; the CISO must not report directly to the Head of IT and must not carry business targets.",
+    "expected_source": "Credit Information Companies ΓÇô Cybersecurity, Technolog.pdf",
+    "expected_page": [
+      15,
+      16
+    ],
+    "expected_section": "Paras 26-27(6)",
+    "expected_keywords": [
+      "CISO",
+      "Executive Director",
+      "Head of IT"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q035",
+    "question": "What is the procedure for deactivating demat accounts of an entity where SEBI's show-cause notice cannot be delivered?",
+    "question_category": "policy_procedure",
+    "expected_answer": "If none of the MIIs can deliver the SCN/order and obtain a signed acknowledgement, all trading and demat accounts of the entity (based on PAN) are deactivated within 5 working days of the last unsuccessful delivery report, after an email/SMS to the entity.",
+    "expected_source": "Master Circular for Depositories.pdf",
+    "expected_page": [
+      25
+    ],
+    "expected_section": "Para 1.11.2.1",
+    "expected_keywords": [
+      "5 working days",
+      "deactivate",
+      "unsuccessful delivery"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q036",
+    "question": "How are 'Luggage file' and 'Receipt scroll' defined in the agency bank directions?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "A 'Luggage file' is an electronic file in eXtensible Markup Language (XML) format reported by banks to RBI containing details of the transactions; a 'Receipt scroll' is a physical or electronic statement submitted by an AB listing the receipts collected and remitted to the Government account at RBI for a Ministry or Department on a given date, used for accounting and reconciliation.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      3
+    ],
+    "expected_section": "Para 4 - Definitions (Receipt scroll, Luggage file)",
+    "expected_keywords": [
+      "Luggage file",
+      "XML",
+      "Receipt scroll"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q037",
+    "question": "When is a CC/OD account treated as 'out of order'?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "When the outstanding balance continuously exceeds the sanctioned limit/drawing power for 90 days, or is below the limit but there are no credits for 90 days, or credits are not enough to cover interest debited during the previous 90 days.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      3
+    ],
+    "expected_section": "Para 2.1.1, Footnote 2",
+    "expected_keywords": [
+      "out of order",
+      "drawing power",
+      "90 days"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q038",
+    "question": "What are the SMA-0, SMA-1 and SMA-2 categories for term loans?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "SMA-0: overdue up to 30 days; SMA-1: more than 30 and up to 60 days; SMA-2: more than 60 and up to 90 days.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      6
+    ],
+    "expected_section": "Para 2.1.6",
+    "expected_keywords": [
+      "SMA-0",
+      "SMA-1",
+      "SMA-2"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q039",
+    "question": "What are the UCRF forms prescribed for credit information reporting?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "Uniform Credit Reporting Format Form 1 (Consumer), Form 2 (Commercial) and Form 3 (MFI/microfinance).",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Credit Information Reporting.pdf",
+    "expected_page": [
+      6
+    ],
+    "expected_section": "Para 9 - UCRF",
+    "expected_keywords": [
+      "Uniform Credit Reporting Format",
+      "Form 1",
+      "MFI"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q040",
+    "question": "What does the Credit Risk-o-Meter show when a credit rating agency mentions 'Issuer is Not Cooperating'?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "The meter is displayed with the arrow directed towards INC, and the INC status is also reflected in the textual disclosure below the meter.",
+    "expected_source": "Credit Risk-o-Meter as an additional disclosure.pdf",
+    "expected_page": [
+      6
+    ],
+    "expected_section": "Para 2.10",
+    "expected_keywords": [
+      "Issuer is Not Cooperating",
+      "INC"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q041",
+    "question": "What is CRE-RH and what does it consist of?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "'Commercial Real Estate - Residential Housing' is a sub-sector carved out of CRE, consisting of loans to builders/developers for residential housing projects (except for captive consumption); integrated projects with some commercial space may also be classified in it.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      6
+    ],
+    "expected_section": "Para 4.8.5 (CRE-RH definition)",
+    "expected_keywords": [
+      "CRE-RH",
+      "Commercial Real Estate"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q042",
+    "question": "What does the depositories master circular say about the Basic Services Demat Account (BSDA)?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "Para 1.8 deals with the Facility for a Basic Services Demat Account (BSDA), referring to the SEBI circular of June 28, 2024, covering eligibility and option to open a BSDA.",
+    "expected_source": "Master Circular for Depositories.pdf",
+    "expected_page": [
+      21
+    ],
+    "expected_section": "Para 1.8",
+    "expected_keywords": [
+      "Basic Services Demat Account",
+      "BSDA"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q043",
+    "question": "What are the five rights under the Charter of Customer Rights?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "Right to Fair Treatment; Right to Transparency, Fair and Honest Dealing; Right to Suitability; Right to Privacy; Right to Grievance Redress and Compensation.",
+    "expected_source": "Know your Lender.pdf",
+    "expected_page": [
+      18
+    ],
+    "expected_section": "Section 2.1",
+    "expected_keywords": [
+      "Charter of Customer Rights",
+      "Right to Suitability"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q044",
+    "question": "What is the Credit Proposal Tracking System (CPTS) and what must it generate?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "A central registration/e-tracking system for MSME loan applications; it automatically generates an acknowledgement with a unique application serial number issued to the applicant.",
+    "expected_source": "Know your Lender.pdf",
+    "expected_page": [
+      21
+    ],
+    "expected_section": "Section 3.2",
+    "expected_keywords": [
+      "Credit Proposal Tracking System",
+      "unique application serial number"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q045",
+    "question": "For proof of address under the limited-purpose OVD list, how old may a utility bill be?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "A utility bill (e.g. electricity, telephone, water, piped gas) that is not more than two months old is a deemed Officially Valid Document for proof of address.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      6,
+      7
+    ],
+    "expected_section": "Para 4(1)(xiv)",
+    "expected_keywords": [
+      "utility bill",
+      "two months",
+      "deemed to be OVD"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q046",
+    "question": "At what capitalisation rates is earning value computed for manufacturing, trading and other businesses by an ARC?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "8% for manufacturing, 10% for trading and 12% for others.",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      3
+    ],
+    "expected_section": "Para 4(6) - Earning value",
+    "expected_keywords": [
+      "earning value",
+      "8 percent",
+      "12 percent"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q047",
+    "question": "What does CEGSSC stand for, and what is the minimum shareholding requirement for eligible companies?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "Credit Enhancement Guarantee Scheme for the Scheduled Castes; eligible companies need more than 51% SC/ST shareholding for six months.",
+    "expected_source": "Credit_facilities.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Para 5",
+    "expected_keywords": [
+      "Credit Enhancement Guarantee Scheme",
+      "51%"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q048",
+    "question": "What is IB-CART in the CIC cybersecurity directions?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "Indian Banks-Centre for Analysis of Risks and Threats, set up by IDRBT, to which CICs may share threat intelligence on cyber incidents.",
+    "expected_source": "Credit Information Companies ΓÇô Cybersecurity, Technolog.pdf",
+    "expected_page": [
+      40
+    ],
+    "expected_section": "Para 179",
+    "expected_keywords": [
+      "IB-CART",
+      "IDRBT"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q049",
+    "question": "What features must the compliance tool of a CIC provide, including the 'dashboard' requirement?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "The tool must support stakeholder collaboration, identifying/assessing/monitoring/managing compliance requirements, escalation of non-compliance, recording competent-authority approval for deviations or delays, and provide a unified dashboard for Senior Management.",
+    "expected_source": "Credit Information Companies - Miscellaneous) Supervisory Directions.pdf",
+    "expected_page": [
+      3
+    ],
+    "expected_section": "Para 5",
+    "expected_keywords": [
+      "unified dashboard",
+      "compliance"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q050",
+    "question": "Which days are 'Global Holidays' for the purpose of uploading luggage files?",
+    "question_category": "exact_keyword_terminology",
+    "expected_answer": "January 26, August 15, October 02, all non-working Saturdays, all Sundays and any other day declared a holiday by RBI for Government transactions.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      8
+    ],
+    "expected_section": "Para 18",
+    "expected_keywords": [
+      "Global Holidays",
+      "January 26",
+      "August 15"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q051",
+    "question": "What is the cap on residential mortgages (non-priority sector) as a percentage of total loans and advances for a UCB?",
+    "question_category": "numerical_date",
+    "expected_answer": "25% of total loans and advances.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      6
+    ],
+    "expected_section": "Para 4.8.1",
+    "expected_keywords": [
+      "25",
+      "residential mortgage"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q052",
+    "question": "What provision percentages apply to the secured portion of doubtful assets for UCBs?",
+    "question_category": "numerical_date",
+    "expected_answer": "20% for up to one year, 30% for one to three years, and 100% for more than three years (the unsecured portion is provided at 100%).",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      18
+    ],
+    "expected_section": "Para 5.1.2",
+    "expected_keywords": [
+      "doubtful",
+      "20",
+      "30",
+      "100"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q053",
+    "question": "What general provisioning rate applies to Commercial Real Estate standard assets in a UCB?",
+    "question_category": "numerical_date",
+    "expected_answer": "1.00% for CRE (0.75% for CRE-RH; 0.25% agriculture and SME; 0.40% others).",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      18,
+      19
+    ],
+    "expected_section": "Para 5.1.2 - standard assets",
+    "expected_keywords": [
+      "standard assets",
+      "1.00",
+      "0.75"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q054",
+    "question": "What compensation is payable to a complainant if a credit information complaint is not resolved within 30 calendar days?",
+    "question_category": "numerical_date",
+    "expected_answer": "Rs. 100 per calendar day of delay beyond 30 calendar days from the date of filing.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Credit Information Reporting.pdf",
+    "expected_page": [
+      19
+    ],
+    "expected_section": "Para 34(1)",
+    "expected_keywords": [
+      "100 per calendar day",
+      "thirty calendar days"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q055",
+    "question": "What is the minimum investment an ARC must make in each class of security receipts?",
+    "question_category": "numerical_date",
+    "expected_answer": "The higher of 15 percent of the transferors' investment in the SRs or 2.5 percent of the total SRs issued under each scheme.",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      25
+    ],
+    "expected_section": "Para 81",
+    "expected_keywords": [
+      "15 percent",
+      "2.5 percent",
+      "whichever is higher"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q056",
+    "question": "What is the priority sector lending target for Urban Co-operative Banks in the Know Your Lender handbook?",
+    "question_category": "numerical_date",
+    "expected_answer": "60% of total lending (Total PSL Target, % of total lending by the RE), with a 7.5% sub-target for micro enterprises.",
+    "expected_source": "Know your Lender.pdf",
+    "expected_page": [
+      12
+    ],
+    "expected_section": "PSL targets table (printed page ix)",
+    "expected_keywords": [
+      "Urban Co-operative",
+      "60"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q057",
+    "question": "What is the maximum number of agency-commission-eligible transactions per pensioner per financial year?",
+    "question_category": "numerical_date",
+    "expected_answer": "14 per pensioner per financial year (one monthly credit plus a maximum of two DR arrears payments a year).",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      11
+    ],
+    "expected_section": "Para 34",
+    "expected_keywords": [
+      "14",
+      "pensioner",
+      "Dearness Relief"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q058",
+    "question": "What is the guarantee cover range and maximum tenure under CEGSSC?",
+    "question_category": "numerical_date",
+    "expected_answer": "Guarantee between Rs. 0.15 crore and Rs. 5.00 crore; tenure up to 7 years or the repayment period, whichever is earlier.",
+    "expected_source": "Credit_facilities.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Para 5",
+    "expected_keywords": [
+      "0.15",
+      "5.00",
+      "7 years"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q059",
+    "question": "Within how many hours must OBPPs communicate a change in the Credit Risk-o-Meter after intimation of a rating change?",
+    "question_category": "numerical_date",
+    "expected_answer": "Within 24 hours of receiving intimation of the rating change from the depositories (NSDL/CDSL).",
+    "expected_source": "Credit Risk-o-Meter as an additional disclosure.pdf",
+    "expected_page": [
+      7
+    ],
+    "expected_section": "Para 2.12.1",
+    "expected_keywords": [
+      "24 hours",
+      "OBPP"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q060",
+    "question": "What is the limit on housing credit for repairs, additions and alterations in metropolitan centres versus other centres for UCBs?",
+    "question_category": "numerical_date",
+    "expected_answer": "Up to Rs. 10 lakh in metropolitan centres and up to Rs. 6 lakh elsewhere.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      7
+    ],
+    "expected_section": "Para 5.3",
+    "expected_keywords": [
+      "10 lakh",
+      "6 lakh",
+      "metropolitan"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q061",
+    "question": "What is the RBI circular number of the Credit Information Companies - Miscellaneous Supervisory Directions, 2026?",
+    "question_category": "circular_reference",
+    "expected_answer": "RBI/DoS/2026-27/471 (DoS.CO.PPG.65/11.01.005/2026-27), dated July 31, 2026.",
+    "expected_source": "Credit Information Companies - Miscellaneous) Supervisory Directions.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Circular header",
+    "expected_keywords": [
+      "RBI/DoS/2026-27/471",
+      "DoS.CO.PPG.65"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q062",
+    "question": "Which circular number carries the Credit Information Companies cybersecurity, technology risk, resilience and assurance framework directions?",
+    "question_category": "circular_reference",
+    "expected_answer": "RBI/DoS/2026-27/470 (DoS.CO.CSITEG.64/31.01.015/2026-27), dated July 31, 2026.",
+    "expected_source": "Credit Information Companies ΓÇô Cybersecurity, Technolog.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Circular header",
+    "expected_keywords": [
+      "RBI/DoS/2026-27/470",
+      "CSITEG.64"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q063",
+    "question": "What is the SEBI circular reference for the introduction of the Credit Risk-o-Meter?",
+    "question_category": "circular_reference",
+    "expected_answer": "HO/17/11/22(1)2026-DDHS-POD1/I/23092/2026, dated October 07, 2026.",
+    "expected_source": "Credit Risk-o-Meter as an additional disclosure.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Circular header",
+    "expected_keywords": [
+      "DDHS-POD1",
+      "23092"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q064",
+    "question": "Under which RBI reference number was the master circular on credit facilities for SC/ST issued?",
+    "question_category": "circular_reference",
+    "expected_answer": "RBI/2026-27/272 (FIDD.CO.GSSD.BC.No.11/09.09.001/2026-27), dated October 01, 2026.",
+    "expected_source": "Credit_facilities.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Circular header",
+    "expected_keywords": [
+      "RBI/2026-27/272",
+      "FIDD.CO.GSSD"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q065",
+    "question": "Which earlier master circular on housing finance for UCBs was superseded by the April 1, 2025 version?",
+    "question_category": "circular_reference",
+    "expected_answer": "DOR.CRE.REC.No.6/07.10.002/2024-25 dated April 2, 2024.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Circular header / opening para",
+    "expected_keywords": [
+      "DOR.CRE.REC.No.6/07.10.002/2024-25",
+      "April 2, 2024"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q066",
+    "question": "What is the reference number of the master circular on Income Recognition, Asset Classification and Provisioning pertaining to Advances for UCBs?",
+    "question_category": "circular_reference",
+    "expected_answer": "RBI/2025-26/14, DOR.STR.REC.10/21.04.048/2025-26, dated April 01, 2025.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Circular header",
+    "expected_keywords": [
+      "RBI/2025-26/14",
+      "DOR.STR.REC.10"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q067",
+    "question": "What is the RBI reference number of the circular on Conduct of Government Business by Agency Banks issued in 2026?",
+    "question_category": "circular_reference",
+    "expected_answer": "RBI/DGBA/2026-27/400 (CO.DGBA.GBD.No.S44/31.02.007/2026-27), dated April 30, 2026.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Circular header",
+    "expected_keywords": [
+      "RBI/DGBA/2026-27/400",
+      "S44"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q068",
+    "question": "What is the SEBI Master Circular for Depositories reference number and date?",
+    "question_category": "circular_reference",
+    "expected_answer": "SEBI/HO/MRD/MRD-PoD-1/P/CIR/2024/168 dated December 03, 2024.",
+    "expected_source": "Master Circular for Depositories.pdf",
+    "expected_page": [
+      1
+    ],
+    "expected_section": "Master circular header",
+    "expected_keywords": [
+      "SEBI/HO/MRD/MRD-PoD-1/P/CIR/2024/168",
+      "December 03, 2024"
+    ],
+    "answerable": true,
+    "difficulty": "easy"
+  },
+  {
+    "question_id": "Q069",
+    "question": "Which circular governs levy of penal charges in loan accounts as referenced in the UCB housing finance master circular?",
+    "question_category": "circular_reference",
+    "expected_answer": "DoR.MCS.REC.28/01.01.001/2023-24 dated August 18, 2023 on 'Fair Lending Practice - Penal Charges in Loan Accounts'.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      5
+    ],
+    "expected_section": "Para 4.3.1",
+    "expected_keywords": [
+      "DoR.MCS.REC.28/01.01.001/2023-24",
+      "August 18, 2023"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q070",
+    "question": "Through which circular were the earlier ARC credit information reporting instructions repealed?",
+    "question_category": "circular_reference",
+    "expected_answer": "DOR.RRC.REC.302/33-01-010/2025-26 dated November 28, 2025.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Credit Information Reporting.pdf",
+    "expected_page": [
+      28
+    ],
+    "expected_section": "Para 36 (Repeal)",
+    "expected_keywords": [
+      "DOR.RRC.REC.302/33-01-010/2025-26",
+      "November 28, 2025"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q071",
+    "question": "A UCB is asked to finance a builder. What restrictions apply on land acquisition, margin on stocks and disbursement of individual housing loans linked to the project?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "No fund-based or non-fund-based facility to builders/contractors for land acquisition (para 7.4); margin of not less than 40 to 50 percent on stocks (para 7.3); individual housing loan disbursals must be linked to construction stages with no upfront disbursal for under-construction/incomplete/green field projects (para 7.6).",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      8
+    ],
+    "expected_section": "Paras 7.3, 7.4, 7.6",
+    "expected_keywords": [
+      "land",
+      "40 to 50 percent",
+      "upfront disbursal"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q072",
+    "question": "For a Tier 3 UCB, what are the dwelling-unit housing loan ceiling and the single/group borrower exposure limits?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Rs. 2 crore per dwelling unit (subject to single borrower limits); single borrower 15% and group of connected borrowers 25% of Tier-I capital.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 4.1(ii) and 4.1(iii)",
+    "expected_keywords": [
+      "Tier 3",
+      "15 per cent",
+      "25 per cent"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q073",
+    "question": "How does an account move from SMA-1 to NPA in the illustration, and how are the SMA categories defined?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "In the example, the account is flagged SMA-1 on April 30, 2022 (overdue beyond 30 days), SMA-2 on May 30, 2022, and NPA on June 29, 2022 once overdue exceeds 90 days; SMA-1 is >30-60 days, SMA-2 >60-90 days.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      4,
+      5,
+      6
+    ],
+    "expected_section": "Paras 2.1.4 and 2.1.6",
+    "expected_keywords": [
+      "SMA-1",
+      "SMA-2",
+      "June 29, 2022"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q074",
+    "question": "How are Central Government guaranteed credits treated for NPA classification compared with State Government guaranteed advances for provisioning?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Central Government guaranteed credit is not treated as NPA even if overdue but income is not recognised (para 2.2.5); State Government guaranteed advances attract the extant provisioning norms according to asset classification (para 5.4(i)).",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      7,
+      20
+    ],
+    "expected_section": "Paras 2.2.5 and 5.4(i)",
+    "expected_keywords": [
+      "Central Government",
+      "State Government guaranteed"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q075",
+    "question": "Which advances are exempt from provisioning, and which secured advances are not exempt?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Advances against fixed/term deposits, NSCs eligible for surrender, KVPs and life policies are exempt; advances against gold ornaments, government securities and all other securities are not exempt.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      20
+    ],
+    "expected_section": "Para 5.4(iii)-(iv)",
+    "expected_keywords": [
+      "fixed / term deposit",
+      "gold ornaments",
+      "not exempted"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q076",
+    "question": "How does an ARC handle settlement for accounts above and up to Rs. 1 crore, and what applies to fraud or wilful defaulter accounts?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Above Rs. 1 crore, settlement needs IAC examination and Board-level deliberation with two independent directors (para 64); up to Rs. 1 crore, the simpler process of para 65 applies; fraud or wilful defaulter accounts follow para 64 regardless of amount (para 66).",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      21,
+      22,
+      23
+    ],
+    "expected_section": "Paras 64-66",
+    "expected_keywords": [
+      "1 crore",
+      "wilful defaulter",
+      "Independent Advisory Committee"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q077",
+    "question": "What notice and approvals are involved in change or takeover of management by an ARC and enforcement of security interest?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "60 days' notice for change/takeover of management, and the Board passes a reasoned order within 30 days of notice expiry (paras 48-50); enforcement requires consent of creditors holding at least 60% of amount outstanding (para 58).",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      19,
+      20
+    ],
+    "expected_section": "Paras 48-50 and 58",
+    "expected_keywords": [
+      "60 days",
+      "30 days",
+      "60 percent"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q078",
+    "question": "What are the rating requirements for security receipts: initial rating timeline, review dates and rating agency retention?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Initial rating within six months of acquisition (para 82); review as on June 30 and December 31 (para 83); retain a CRA for at least six rating cycles (para 88).",
+    "expected_source": "Asset Reconstruction Companies_Directions-2025.pdf",
+    "expected_page": [
+      25,
+      26
+    ],
+    "expected_section": "Paras 82, 83, 88",
+    "expected_keywords": [
+      "six months",
+      "June 30",
+      "six rating cycles"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q079",
+    "question": "How is agency commission shared when two banks handle a transaction, and how must settlement be done with RBI?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Commission is shared 75%:25% where work is split (para 35); all ABs settle agency transactions and commission directly with the respective RO of RBI from January 01, 2018 (para 36).",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      11,
+      12
+    ],
+    "expected_section": "Paras 35-36",
+    "expected_keywords": [
+      "75%:25%",
+      "January 01, 2018"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q080",
+    "question": "What eligibility conditions must a private bank meet to be an agency bank, and what circumstances disqualify it?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Eligibility depends on authorisation history (e.g. scheduled private sector banks from January 31, 2012; PBs and SFBs from December 15, 2021) and the bank must not be under Prompt Corrective Action or a moratorium.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Paras 6 and 7.3",
+    "expected_keywords": [
+      "Prompt Corrective Action",
+      "moratorium"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q081",
+    "question": "For low-risk individuals, how does the KYC updation relaxation relate to the standard periodic updation frequency?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "Standard frequency is every 10 years for low risk; where updation has fallen due for a low-risk individual, the ARC allows transactions and ensures updation within one year of falling due or up to June 30, 2026, whichever is later.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      32,
+      33
+    ],
+    "expected_section": "Para 41(1) and 41(2)",
+    "expected_keywords": [
+      "low-risk",
+      "June 30, 2026"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q082",
+    "question": "In the compensation framework for delayed credit information updation, how many days do CIs and CICs get to act?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "A CI has 21 days to forward corrected particulars and the CIC has 9 days, within the overall 30 days after which Rs. 100 per calendar day compensation applies.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Credit Information Reporting.pdf",
+    "expected_page": [
+      19,
+      20
+    ],
+    "expected_section": "Para 34",
+    "expected_keywords": [
+      "21 days",
+      "100 per calendar day"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q083",
+    "question": "What independence safeguards apply to the CISO of a CIC and how often is the CISO's reporting reviewed by the Board?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "The CISO is a senior executive (preferably General Manager rank), does not report to the Head of IT or have business targets, and reports directly to the Executive Director overseeing risk management; the cyber risk position is reviewed quarterly before the Board/RMCB/ITSC.",
+    "expected_source": "Credit Information Companies ΓÇô Cybersecurity, Technolog.pdf",
+    "expected_page": [
+      15,
+      16,
+      17
+    ],
+    "expected_section": "Paras 26, 27(6), 27(7)",
+    "expected_keywords": [
+      "General Manager",
+      "Executive Director"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q084",
+    "question": "How should a Credit Risk-o-Meter be displayed for multiple ratings, and how fast must changes be reflected?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "With multiple CRAs, the meter reflects the lowest rating (para 2.7); OBPPs communicate meter changes within 24 hours of rating-change intimation (para 2.12.1).",
+    "expected_source": "Credit Risk-o-Meter as an additional disclosure.pdf",
+    "expected_page": [
+      5,
+      7
+    ],
+    "expected_section": "Paras 2.7 and 2.12.1",
+    "expected_keywords": [
+      "lowest",
+      "24 hours"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q085",
+    "question": "What is the credit decision timeline for MSE loans and the collateral rule for small MSE loans?",
+    "question_category": "multi_section_reasoning",
+    "expected_answer": "No collateral for MSE loans up to Rs. 10 lakh (up to Rs. 25 lakh with a good track record); credit decisions for loans up to Rs. 25 lakh within 14 working days.",
+    "expected_source": "Know your Lender.pdf",
+    "expected_page": [
+      16,
+      20
+    ],
+    "expected_section": "Section 1.1 and Section 3.1",
+    "expected_keywords": [
+      "collateral",
+      "14 working days",
+      "10 lakh"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q086",
+    "question": "A UCB with total assets of Rs. 600 crore has a borrower with aggregate exposure of Rs. 6 crore. Does it need to report this borrower to CRILC?",
+    "question_category": "context_dependent",
+    "expected_answer": "Yes. UCBs with total assets of Rs. 500 crore and above report credit information to CRILC for borrowers with aggregate exposure of Rs. 5 crore and above.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      6
+    ],
+    "expected_section": "Para 2.1.6(iii)",
+    "expected_keywords": [
+      "500 crore",
+      "CRILC",
+      "5 crore"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q087",
+    "question": "A low-risk individual customer's KYC fell due a few months ago. Until when can the ARC still allow transactions?",
+    "question_category": "context_dependent",
+    "expected_answer": "The ARC shall allow transactions and ensure KYC updation within one year of falling due or up to June 30, 2026, whichever is later.",
+    "expected_source": "Asset Reconstruction Companies ΓÇô Know Your Customer.pdf",
+    "expected_page": [
+      33
+    ],
+    "expected_section": "Para 41(2)",
+    "expected_keywords": [
+      "low-risk",
+      "June 30, 2026"
+    ],
+    "answerable": true,
+    "difficulty": "hard"
+  },
+  {
+    "question_id": "Q088",
+    "question": "A pensioner receives net pension every month and two Dearness Relief arrears payments in a year. How many transactions can the agency bank claim commission for?",
+    "question_category": "context_dependent",
+    "expected_answer": "14 (12 monthly credits plus two arrears), which is the maximum allowed per pensioner per financial year.",
+    "expected_source": "Conduct of Government Business by Agency Banks.pdf",
+    "expected_page": [
+      11
+    ],
+    "expected_section": "Para 34",
+    "expected_keywords": [
+      "14",
+      "Dearness Relief"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q089",
+    "question": "A customer wants to fully prepay a floating-rate home loan taken from a UCB. Can the UCB charge a foreclosure fee?",
+    "question_category": "context_dependent",
+    "expected_answer": "No. UCBs are not permitted to charge foreclosure charges or prepayment penalties on home loans extended on a floating interest rate basis (with effect from June 26, 2012).",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 4.2.2",
+    "expected_keywords": [
+      "foreclosure charges",
+      "floating interest"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q090",
+    "question": "A Credit Information Company detects a cyber incident. By when must it be reported on DAKSH?",
+    "question_category": "context_dependent",
+    "expected_answer": "Within six hours of detection.",
+    "expected_source": "Credit Information Companies ΓÇô Cybersecurity, Technolog.pdf",
+    "expected_page": [
+      39
+    ],
+    "expected_section": "Para 177",
+    "expected_keywords": [
+      "six hours",
+      "DAKSH"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q091",
+    "question": "Is there any fee a cooperative bank may collect when a customer closes out a variable-rate home loan early?",
+    "question_category": "paraphrased_semantic",
+    "expected_answer": "No. Foreclosure charges or prepayment penalties on floating-rate home loans are not permitted for UCBs.",
+    "expected_source": "Housing Finance for UCBs.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 4.2.2",
+    "expected_keywords": [
+      "foreclosure charges",
+      "prepayment"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q092",
+    "question": "Within what period must a depository sort out an investor's grievance once it is received?",
+    "question_category": "paraphrased_semantic",
+    "expected_answer": "Within 21 calendar days upon receipt of the complaint.",
+    "expected_source": "Master Circular for Depositories.pdf",
+    "expected_page": [
+      92
+    ],
+    "expected_section": "Para 4.18.2.2",
+    "expected_keywords": [
+      "21 calendar days",
+      "complaints"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q093",
+    "question": "Who decides which compliance management tools a credit bureau should use?",
+    "question_category": "paraphrased_semantic",
+    "expected_answer": "The CIC itself decides the tools, based on its size and complexity.",
+    "expected_source": "Credit Information Companies - Miscellaneous) Supervisory Directions.pdf",
+    "expected_page": [
+      3
+    ],
+    "expected_section": "Para 6",
+    "expected_keywords": [
+      "size and complexity",
+      "tools"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q094",
+    "question": "How soon must a bank decide on a small business loan application of up to Rs. 25 lakh?",
+    "question_category": "paraphrased_semantic",
+    "expected_answer": "Credit decisions for MSE loans up to Rs. 25 lakh should not take more than 14 working days.",
+    "expected_source": "Know your Lender.pdf",
+    "expected_page": [
+      20
+    ],
+    "expected_section": "Section 3.1",
+    "expected_keywords": [
+      "14 working days",
+      "25 lakh"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q095",
+    "question": "When does a plastic-money account become a bad asset if the minimum payment is not made?",
+    "question_category": "paraphrased_semantic",
+    "expected_answer": "When the minimum amount due is not paid fully within 90 days from the payment due date in the statement.",
+    "expected_source": "Income Recognition, Asset Classification, Provisioning.pdf",
+    "expected_page": [
+      4
+    ],
+    "expected_section": "Para 2.1.2(B)(ii)",
+    "expected_keywords": [
+      "credit card",
+      "90 days"
+    ],
+    "answerable": true,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q096",
+    "question": "What is the current Cash Reserve Ratio (CRR) that Urban Co-operative Banks must maintain?",
+    "question_category": "unanswerable",
+    "expected_answer": "Not available in the supplied documents.",
+    "expected_source": null,
+    "expected_page": [],
+    "expected_section": "N/A - None of the 13 indexed documents (no hits for CRR/SLR/liquidity ratios) states a CRR requirement.",
+    "expected_keywords": [],
+    "answerable": false,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q097",
+    "question": "What is the minimum net owned fund a Credit Information Company must maintain?",
+    "question_category": "unanswerable",
+    "expected_answer": "Not available in the supplied documents.",
+    "expected_source": null,
+    "expected_page": [],
+    "expected_section": "N/A - The CIC directions in the supplied documents do not state a net owned fund; the Rs. 300 crore NOF is for ARCs only.",
+    "expected_keywords": [],
+    "answerable": false,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q098",
+    "question": "What monetary penalty does SEBI impose on issuers who fail to display the Credit Risk-o-Meter?",
+    "question_category": "unanswerable",
+    "expected_answer": "Not available in the supplied documents.",
+    "expected_source": null,
+    "expected_page": [],
+    "expected_section": "N/A - The Credit Risk-o-Meter circular prescribes disclosure requirements but states no penalty amount.",
+    "expected_keywords": [],
+    "answerable": false,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q099",
+    "question": "What is the maximum interest rate a UCB may charge on housing loans?",
+    "question_category": "unanswerable",
+    "expected_answer": "Not available in the supplied documents.",
+    "expected_source": null,
+    "expected_page": [],
+    "expected_section": "N/A - The housing finance master circular only says Boards determine interest rates; no numeric cap is given.",
+    "expected_keywords": [],
+    "answerable": false,
+    "difficulty": "medium"
+  },
+  {
+    "question_id": "Q100",
+    "question": "How many free ATM transactions per month is a savings account holder entitled to?",
+    "question_category": "unanswerable",
+    "expected_answer": "Not available in the supplied documents.",
+    "expected_source": null,
+    "expected_page": [],
+    "expected_section": "N/A - No document covers ATM or savings-account service charges.",
+    "expected_keywords": [],
+    "answerable": false,
+    "difficulty": "easy"
+  }
+]
