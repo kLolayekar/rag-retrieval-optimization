@@ -1,6 +1,56 @@
 # rag-retrieval-optimization
 A hands-on RAG engineering project exploring retrieval accuracy, latency, and performance optimization across 20-30k pages of complex pdf's and regulatory documents. The project documents the journey from baseline retrieval to performance profiling, candidate recall evaluation, and accuracy–latency trade-offs, with implementation and benchmarking.
 
+---
+
+## 🏗️ End-to-End System Architecture Diagram
+
+```mermaid
+flowchart TD
+    subgraph INGESTION["1. Document Ingestion & Section-Aware Indexing"]
+        PDF["Banking Regulatory PDFs<br>(data/pdfs/*.pdf)"] --> EXT["Text Extraction<br>(pypdf)"]
+        EXT --> SEC["Section Detection<br>(Regex: Headings, Chapters, Clauses)"]
+        SEC --> CHK["Section-Aware Chunking<br>(500 words + Section Meta)"]
+        CHK --> EMB["Dense Embedder<br>(all-MiniLM-L6-v2)"]
+        CHK --> BM25_IDX["Sparse BM25 Indexer<br>(BM25Okapi)"]
+        EMB --> FAISS_FILE[("FAISS Index<br>faiss.index")]
+        BM25_IDX --> BM25_FILE[("BM25 Index<br>bm25.pkl")]
+        CHK --> CHUNKS_FILE[("Chunks Metadata<br>chunks.json")]
+    end
+
+    subgraph RETRIEVAL["2. Two-Stage Hybrid Retrieval & Reranking"]
+        QUERY["User / Compliance Query"] --> Q_EMB["Dense Embedding Encode"]
+        QUERY --> Q_TOK["Lexical Tokenize"]
+        
+        Q_EMB --> FAISS_SEARCH["Dense Search<br>(Top-40 Candidates)"]
+        FAISS_FILE -.-> FAISS_SEARCH
+        
+        Q_TOK --> BM25_SEARCH["BM25 Search (np.argpartition)<br>(Top-40 Candidates)"]
+        BM25_FILE -.-> BM25_SEARCH
+        
+        FAISS_SEARCH --> RRF["Reciprocal Rank Fusion (RRF)<br>Score = 0.6/(60+r_dense) + 0.4/(60+r_bm25)"]
+        BM25_SEARCH --> RRF
+        
+        RRF --> TOP_CANDIDATES["Top 10 Candidates Pool"]
+        
+        TOP_CANDIDATES --> RERANKER["Cross-Encoder Reranker<br>(ms-marco-MiniLM-L-6-v2)"]
+        QUERY --> RERANKER
+        RERANKER --> TOP_K["Final Top 5 Ranked Context Chunks"]
+    end
+
+    subgraph GENERATION["3. Grounded Regulatory Generation"]
+        TOP_K --> PROMPT_BUILD["Regulatory Prompt Assembler<br>+ Source & Page Attribution"]
+        QUERY --> PROMPT_BUILD
+        PROMPT_BUILD --> LLM["LLM (llama3.1:8b)"]
+        LLM --> ANSWER["Grounded Answer with Exact Citations<br>[Source: Circular.pdf, Page: N]"]
+    end
+
+    subgraph PROFILING["4. Latency & Quality Telemetry"]
+        RETRIEVAL -.-> PROFILER["RetrievalProfiler<br>(P50, P95, per-stage latency)"]
+        TOP_K -.-> EVAL["Evaluation Engine<br>(Hit@5, MRR@5, Page Accuracy, Recall@20)"]
+    end
+```
+
 ## 🚀 Architecture Evolution Summary
 
 | Version | File | Key Innovations & Improvements | Retrieval Strategy |
