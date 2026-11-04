@@ -3,7 +3,6 @@ A hands-on RAG engineering project exploring retrieval accuracy, latency, and pe
 
 ---
 ## 🏗️ End-to-End System Architecture Diagram
-
 ```mermaid
 flowchart TD
     subgraph INGESTION["1. Document Ingestion & Section-Aware Indexing"]
@@ -48,6 +47,8 @@ flowchart TD
         RETRIEVAL -.-> PROFILER["RetrievalProfiler<br>(P50, P95, per-stage latency)"]
         TOP_K -.-> EVAL["Evaluation Engine<br>(Hit@5, MRR@5, Page Accuracy, Recall@20)"]
     end
+```
+
 ---
 
 ## 🚀 Architecture Evolution Summary
